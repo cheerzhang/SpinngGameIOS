@@ -1,0 +1,2 @@
+# SpinngGameIOS
+SpinngGame for IOS
